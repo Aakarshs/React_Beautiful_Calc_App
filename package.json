@@ -2,7 +2,6 @@
   "name": "calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aakarshs.github.io/Beautiful_React_Calculator/",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
