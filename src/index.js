@@ -102,9 +102,9 @@ class Header extends React.Component{
             <button className="clear" onClick={this.clears}> CLS </button>
             <button className="symbol" onClick={this.handleChange} value='+'> + </button>
             
-           
+            <div className="credit">Made by Routh</div>
         </div>
-        <div className="credit">Made by Routh</div>
+       
       </div>
     );
   }

@@ -127,7 +127,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff6668', end
 
 .credit{
   position: fixed;
-  top: 81%;
+  top: 110%;
   left: 50%; 
   transform: translate(-50%, -50%); 
   text-align: center;
